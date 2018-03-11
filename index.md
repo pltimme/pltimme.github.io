@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Check out my latest posts. 
+Check out my latest discoveries.
