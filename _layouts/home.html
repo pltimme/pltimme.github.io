@@ -1,6 +1,18 @@
 ---
 layout: default
+menus:
+  header:
+    pre: <i class="icon-home"></i>
+    post: " · "
 ---
+<ul>
+{% for item in site.menus.header %}
+  <li class="menu-item-{{ loop.index }}">
+    <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
 <h1>Latest Posts</h1>
 <ul>
   {% for post in site.posts %}
