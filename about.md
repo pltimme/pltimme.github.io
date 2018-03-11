@@ -3,16 +3,6 @@ layout: page
 title: About
 permalink: "/about/"
 ---
+# Who's Paul
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+When I stumbled across a career in product management and it was like carrots and hummus: the world is incomplete without. I love learning about problems and how the combination of processes and technology can turn vexatious problems into delightful experiences. I appreciate great design, am fascinated by data insights, and my favorite type of news is business.  In a nutshell, I am a product nerd. When I am not reading Product Hunt, I am a traveler, a gourmand, and an emotional supporter to my wife when she watches her “reality” TV.
